@@ -2,3 +2,4 @@
 *.xml
 src/META-INF/persistence.xml
 src/conexao/ConexaoFactory.java
+nbproject/
